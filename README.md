@@ -1,4 +1,4 @@
-# BFI Finance - DA Operation - Tech Test
+# 💻 BFI Finance - DA Operation - Tech Test
 ## 🍷 Wine Quality Prediction
 ### ⚙️ Setup Instructions
 - With Git:
